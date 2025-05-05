@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "name": "tp2-axel-dumas-yatay-21c",
+  "version": "1.0.0",
+  "description": "Trabajo práctico 2 de la materia TP2 de ORT 21C Yatay 2025",
+  "main": "mac.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "author": "Axel Dumas",
+  "license": "ISC"
+}
